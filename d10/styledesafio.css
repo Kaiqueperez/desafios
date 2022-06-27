@@ -1,0 +1,65 @@
+
+header {
+    background-color: rgb(120, 177, 177);
+    margin: none;
+    padding: auto;
+    border: none;
+
+}
+header > h1,p {
+
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+   nav > a {
+      margin-left: 20px; 
+   }
+   nav > a:hover{
+text-decoration: solid;
+color: rgba(201, 68, 35, 0.479);
+
+   }
+
+   main {
+       margin-left: 120px;
+       margin-right: 120px;
+       
+    
+   }
+   .prima > p {
+       background-color: lightsalmon;
+       text-align: left;
+     font-family: Verdana, Geneva,  Tahoma, sans-serif
+     
+     
+
+.primaa > p {
+    background-color: lightsalmon;
+font-family: Verdana, Geneva, Tahoma, sans-serif;    
+font-size: 20px;
+color: lightgreen;
+font-weight: bold;
+text-align: left;
+}
+.primaaa > p {
+    
+    background-color: lightgreen;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+.segundaa {
+    background-color: lightgreen
+
+} 
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    text-decoration: solid;
+    margin: 1px;
+}
