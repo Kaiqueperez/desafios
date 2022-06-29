@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Courgette&display=swap');
+
+@font-face {
+    font-family: face;
+    src: url();
+}
+
+:root {
+    --cor0: #8EDEF9;
+    --cor1: #43CAF7;
+    --cor2: #35A1C4;
+    --cor3: #446B78;
+    --cor4: #21647A;
+
+    --fonte-padrão: arial, verdana, sans-serif;
+    --fonte-destaque: 'Bebas Neves'
+}
+/"Variaveis universais do codifo"/
+
+body {
+    background-color: #8EDEF9;
+}
+
+
+header {
+    font-family: '--fonte-destaque';
+    background-color: #43CAF7;
+    margin: auto;
+    padding: auto;
+    color: whitesmoke;
+    text-align: center;
+}
+header > nav {
+    text-align: left;
+}
+nav > a {
+    margin-left: 10px;
+}
+a:hover {
+    text-decoration: overline;
+    color: red;
+}
+main {
+    background-color: white;
+    margin: auto;
+.historia {
+    font-size: 25px;
+    color: lightgreen;
+    font-family: 'ovo', Courier, monospace;
+}
+p { 
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.back{
+    background-color: rgb(194, 218, 210);
+}
+
+
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    text-decoration: solid;
+    margin: 1px;
+}
